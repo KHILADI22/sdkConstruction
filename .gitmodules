@@ -1,0 +1,3 @@
+[submodule "tnpSDK"]
+	path = tnpSDK
+	url = https://github.com/KHILADI22/tnpSDK.git
